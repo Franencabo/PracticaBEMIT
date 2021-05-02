@@ -1,0 +1,26 @@
+/* =================================================== */
+/* OBEJCT - CONTAINER */
+/* =================================================== */
+
+//ancho máximo del layout de la página
+@import "settings/_settings";
+
+.o-container {
+
+max-width: 100%;
+width: 1200px;
+display: block;
+margin: 0 auto;
+padding-left: ($padding_col/2);
+padding-right: ($padding_col/2);
+
+}
+
+
+
+
+
+
+/* =================================================== */
+/* END OBEJCT - CONTAINER */
+/* =================================================== */
